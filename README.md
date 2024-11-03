@@ -1,6 +1,6 @@
-Mobile Usage Behavior Analysis
-Project Overview
-This project aims to analyze and predict mobile app usage behavior based on users' demographic and usage patterns. The analysis focuses on understanding the relationship between factors such as age, gender, and location and their impact on total app usage. The project also leverages machine learning to predict Total App Usage Hours based on age.
+# Mobile Usage Behavior Analysis
+## Project Overview
+### This project aims to analyze and predict mobile app usage behavior based on users' demographic and usage patterns. The analysis focuses on understanding the relationship between factors such as age, gender, and location and their impact on total app usage. The project also leverages machine learning to predict Total App Usage Hours based on age.
 
 Project Objectives
 Analyze mobile usage behavior across different demographics.
